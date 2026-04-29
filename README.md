@@ -1,54 +1,65 @@
-# Infidevs 🚀
+<div align="center">
 
-**Infidevs – Build. Deploy. Scale.**
+<h1>Infidevs</h1>
+<p><strong>Build. Deploy. Scale.</strong></p>
 
-Infidevs is a digital agency focused on delivering complete technology and growth solutions. We specialize in building scalable, high-performance digital products and helping businesses grow online.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&color=6C63FF&center=true&vCenter=true&width=500&lines=Digital+Agency;Web+Development+%7C+SaaS+%7C+CRM;Apps+%7C+SEO+%7C+Growth" />
 
-## 🌐 About Infidevs
+<br/>
 
-Infidevs is a Kerala-based digital agency offering end-to-end services including web development, SaaS platforms, CRM systems, mobile applications, SEO, and social media management.
+<a href="https://infidevs.in">
+  <img src="https://img.shields.io/badge/Website-infidevs.in-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://instagram.com/infidevs">
+  <img src="https://img.shields.io/badge/Instagram-@infidevs-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-Infidevs-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-We work with startups, businesses, and creators to transform ideas into powerful, scalable digital solutions.
+</div>
 
-## ⚡ Services
+## About
 
-- 🌍 Web Development (Modern, Fast, Scalable)
-- 🧠 Full Stack Development (Frontend + Backend)
-- ☁️ SaaS Development (Custom Platforms & Dashboards)
-- 📊 CRM Systems (Automation & Management Tools)
-- 📱 App Development (Android & Cross-platform)
-- 📈 SEO Optimization (Ranking & Traffic Growth)
-- 📢 Social Media Management (Growth & Branding)
+Infidevs is a digital agency based in Kerala, India, focused on building scalable digital systems and performance-driven solutions.
 
-## 🛠️ Tech Stack
+We work across web development, full-stack applications, SaaS platforms, CRM systems, mobile applications, and SEO to help businesses build, launch, and scale effectively.
 
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js, Express  
-- Framework: React, Next.js
-- Database: Supabase, MySQL  
-- Hosting: Infidevs, Cloud Platforms  
+## Services
 
-## 🔗 Links
+* Web Development
+* Full Stack Systems
+* SaaS Platforms
+* CRM Solutions
+* Mobile Applications
+* SEO & Growth
+* Social Media Management
 
-🌐 Website: https://infidevs.in  
-📸 Instagram: https://instagram.com/infidevs  
-💼 LinkedIn: https://linkedin.com (update with your link)
+## Technology
 
-## 📍 Location
+<div align="center">
 
-Kerala, India 🇮🇳
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,vercel" />
 
-## 🚀 Mission
+</div>
 
-To build fast, scalable, and reliable digital products while helping brands grow through modern technology and performance-driven strategies.
+## GitHub Insights
 
-## 📩 Contact
+<div align="center">
 
-For collaborations or projects:
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
 
-📧 Email: contact@infidevs.in  
-🌐 Website: https://infidevs.in  
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
 
----
+</div>
 
-> Infidevs – Digital Agency for Modern Businesses
+## Contact
+
+Website: https://infidevs.in
+Email: [contact@infidevs.in](mailto:contact@infidevs.in)
+
+<div align="center">
+
+<sub>Infidevs — Digital Systems & Scalable Solutions</sub>
+
+</div>
