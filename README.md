@@ -47,16 +47,16 @@ We work across web development, full-stack applications, SaaS platforms, CRM sys
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=infoinfidevs&show_icons=true&theme=transparent&hide_border=true" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infoinfidevs&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
 ## Contact
 
 Website: https://infidevs.in
-Email: [contact@infidevs.in](mailto:contact@infidevs.in)
+Email: [info.infidevs@infidevs.in](mailto:info.infidevs@infidevs.in)
 
 <div align="center">
 
